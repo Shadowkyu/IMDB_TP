@@ -1,0 +1,7 @@
+{
+  "name": "IMDB_TP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
